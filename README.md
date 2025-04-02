@@ -6,8 +6,11 @@ Code private (active research project)
 My ongoing research at the University of Sydney centers on the statistical characterization and modeling of solar flaring activity, with a focus SXR and EUV data. The project integrates observational data analysis, time series modeling, and machine learning techniques to improve flare detection and event classification. A key area of development is the application of a Hidden Markov Model (HMM) to identify the underlying magnetic states, i.e., background, rise, and decay phases, based on observations. The project extends to the use of Bayesian inference, Viterbi decoding, and parameter learning methods (including EM, GMM, and Dynamic Hamiltonian Monte Carlo) to improve HMM predictions. Synthetic data generation and injection-recovery tests are employed to validate the robustness of detection techniques.
 
 Parallel efforts include:
+
 	Temporal and spatial correlation analysis of EUV emission across active regions.
+ 
 	Application of local extrema algorithms and continuous wavelet transforms for flare onset identification.
+ 
 	Time series modeling using methods such as LOWESS, ARIMA, NIF, and RMSF to better capture flare dynamics.
 
 
